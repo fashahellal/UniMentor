@@ -2,11 +2,9 @@
 
 UniMentor is a mobile mentoring platform developed as a **Final Year Project** to help **Universiti Kuala Lumpur (UniKL) students** connect with mentors, manage mentoring activities, communicate, and access learning resources in one platform.
 
-The application is specifically designed for the UniKL student community. Users are required to register or log in using an official **UniKL student email address ending with `@s.unikl.edu.my`**.
-
 ## 📱 Overview
 
-UniMentor provides a centralized platform where UniKL students can participate in mentoring activities through mentor-mentee matching, communication, booking sessions, learning materials, reviews, and related academic activities.
+UniMentor provides a centralized platform where students can participate in mentoring activities through mentor-mentee matching, communication, booking sessions, learning materials, reviews, and related academic activities.
 
 The application supports both **mentors and mentees**, providing different functionalities based on their roles.
 
@@ -66,13 +64,13 @@ The application supports both **mentors and mentees**, providing different funct
 
 UniMentor is designed specifically for the **UniKL student community**.
 
-Users must register or log in using an official UniKL student email address with the following domain:
+During registration, users are required to provide an email address using the UniKL student email domain:
 
 ```text
 @s.unikl.edu.my
 ```
 
-This email-domain restriction ensures that the application is intended for the UniKL student community.
+This domain restriction was implemented to limit registration to users using the UniKL student email format.
 
 ## 🗄️ Firebase Integration
 
