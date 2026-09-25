@@ -108,31 +108,39 @@ I was responsible for the end-to-end development of the application, including:
 
 ### 🔐 Authentication
 
-*Add screenshots here*
+![UniMentor Login](screenshots/login.png)
 
-### 🏠 Home & Mentor Discovery
+### 🏠 Mentee Dashboard & Homepage
 
-*Add screenshots here*
+![Mentee Dashboard](screenshots/mentee%20-%20dashboard.png)
 
-### 🔍 Mentor-Mentee Matching
+![Mentee Homepage](screenshots/mentee%20-%20homepage.png)
 
-*Add screenshots here*
+### 🔍 Mentor & Mentee Features
+
+![Mentor Profile](screenshots/mentor's%20profile.png)
+
+![Mentor Homepage](screenshots/mentor%20-%20homepage.png)
 
 ### 💬 Chat
 
-*Add screenshots here*
+![Chat](screenshots/chat.png)
 
 ### 📅 Booking
 
-*Add screenshots here*
+![Booking](screenshots/mentee%20-%20booking.png)
 
-### 📚 Learning Materials
+### 🏆 Mentor Co-Curricular
 
-*Add screenshots here*
+![Co-Curricular](screenshots/mentor%20-%20cocurricular.png)
 
-### ⭐ Ratings & Reviews
+### 💰 Mentor Wallet
 
-*Add screenshots here*
+![Mentor Wallet](screenshots/mentor%20-%20wallet.png)
+
+### 💬 Forum
+
+![Forum](screenshots/open%20forum.png)
 
 ## 🚀 Getting Started
 
