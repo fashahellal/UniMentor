@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131650851534",
+    "project_id": "unimentor-3ffe3",
+    "storage_bucket": "unimentor-3ffe3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131650851534:android:4dfa0017a7b11b4b7f369f",
+        "android_client_info": {
+          "package_name": "com.example.unimentor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVYLE5waX8wqIqOnlnRFV06jCiyCFDKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

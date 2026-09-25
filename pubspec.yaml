@@ -1,0 +1,35 @@
+name: unimentor
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.3.0
+  firebase_auth: ^6.1.3
+  cloud_firestore: ^6.1.1
+  file_picker: ^10.3.8
+  intl: ^0.20.2
+  url_launcher: ^6.3.2
+  firebase_storage: ^13.0.5
+  pdf: ^3.11.1
+  printing: ^5.13.2
+  http: ^1.1.0
+  webview_flutter: ^4.2.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/UniMentor_Logo.png
+  
