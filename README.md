@@ -108,39 +108,54 @@ I was responsible for the end-to-end development of the application, including:
 
 ### 🔐 Authentication
 
-![UniMentor Login](screenshots/login.png)
+<p align="center">
+  <img src="screenshots/login.png" width="280">
+</p>
 
 ### 🏠 Mentee Dashboard & Homepage
 
-![Mentee Dashboard](screenshots/mentee%20-%20dashboard.png)
-
-![Mentee Homepage](screenshots/mentee%20-%20homepage.png)
+<p align="center">
+  <img src="screenshots/mentee%20-%20dashboard.png" width="280">
+  <img src="screenshots/mentee%20-%20homepage.png" width="280">
+</p>
 
 ### 🔍 Mentor & Mentee Features
 
-![Mentor Profile](screenshots/mentor's%20profile.png)
-
-![Mentor Homepage](screenshots/mentor%20-%20homepage.png)
+<p align="center">
+  <img src="screenshots/mentor's%20profile.png" width="280">
+  <img src="screenshots/mentor%20-%20homepage.png" width="280">
+</p>
 
 ### 💬 Chat
 
-![Chat](screenshots/chat.png)
+<p align="center">
+  <img src="screenshots/chat.png" width="280">
+</p>
 
 ### 📅 Booking
 
-![Booking](screenshots/mentee%20-%20booking.png)
+<p align="center">
+  <img src="screenshots/mentee%20-%20booking.png" width="280">
+</p>
 
 ### 🏆 Mentor Co-Curricular
 
-![Co-Curricular](screenshots/mentor%20-%20cocurricular.png)
+<p align="center">
+  <img src="screenshots/mentor%20-%20cocurricular.png" width="280">
+</p>
 
 ### 💰 Mentor Wallet
 
-![Mentor Wallet](screenshots/mentor%20-%20wallet.png)
+<p align="center">
+  <img src="screenshots/mentor%20-%20wallet.png" width="280">
+</p>
 
 ### 💬 Forum
 
-![Forum](screenshots/open%20forum.png)
+<p align="center">
+  <img src="screenshots/open%20forum.png" width="280">
+</p>
+
 
 ## 🚀 Getting Started
 
